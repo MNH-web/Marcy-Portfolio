@@ -32,10 +32,16 @@ p {
 a {
     text-decoration: none;
     color: #348498;
+    font-family: 'Merriweather', serif;
 }
 
 a:hover {
     color: #5bd1d7;
+    ;
+}
+
+.footer-link {
+    margin: 10px 20px;
 }
 
 hr {
@@ -61,6 +67,7 @@ hr {
     padding: 10px 20px;
     margin:  100px 0 0 0;
     background-color: #004d61;
+    
 }
 
 /******* images ******/
