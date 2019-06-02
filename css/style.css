@@ -51,7 +51,19 @@ hr {
     margin: 100px auto;
 }
 
-/********* containers ******/
+/* navbar */
+
+.top-nav{
+    padding-top: 3%;
+    background-color: #00b7a8;
+    color: #40514E;
+}
+
+.nav-link {
+   
+}
+
+/* containers */
 
 .top-container {
     padding: 30px 0 40px;
