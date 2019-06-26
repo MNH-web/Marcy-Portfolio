@@ -82,6 +82,13 @@ hr {
     
 }
 
+
+/* section backgrounds */
+.Portfolio {
+    background-color: #004d61;
+    color: #B9B9BE;
+}
+
 /******* images ******/
 
 .profile-pic {
@@ -154,4 +161,25 @@ hr {
   .butn:hover {
     background: #2cba92;
     text-decoration: none;
+  }
+
+  /* jquery ccs */
+
+  .css-show {
+
+    display: none;
+  }
+
+  .Portfolio-show{
+      display: none;
+  }
+  
+  .html-show {
+
+    display: none;
+  }
+
+  .java-show {
+
+    display: none;
   }
